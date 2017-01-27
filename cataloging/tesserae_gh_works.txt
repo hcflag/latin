@@ -1,0 +1,280 @@
+macro. sat.
+10.544 	insontesque simul. miseros hoc ense
+At hercules, egregia facta maiorum tuorum te extollunt; quorum sive tu similis es sive illi tui, nihil ad omnium scelus ac nequitiam addi potest. Verum, ut opinor, honores tui te faciunt insolentem.
+Cic. Acad.
+Glass. Wash.
+Quint. Inst.
+Tac. Agr.
+Tac. Ann.
+amm.
+antiluc.
+apul.apol.
+apul.fl.
+apul.met.
+aris. econ.
+aug. anc.
+august.ep.
+aus. biss.
+aus. caes. 
+aus. cent. nupt.
+aus. cup. cruc.
+aus. ecl. 13.
+aus. ep.
+aus. ephem.
+aus. epigr.
+aus. epit.
+aus. fast.
+aus. grat. 1.
+aus. griph.
+aus. idyll.
+aus. idyll. 2.
+aus. idyll. 3.
+aus. idyll. 8_or_9.
+aus. mos.
+aus. orat. 
+aus. par.
+aus. praef.
+aus. prof. 
+aus. sap.
+aus. tech.
+aus. urb.
+bede. hist.
+boe. eut. nest.
+boe. fide. cath.
+boe. pat.
+boe. quo.
+boe.con.
+boeth. duab. nat.
+caes. bel. civ.
+caes. gal.
+cat.
+cauad. app.
+cels. med.
+changes (apart from punctuation)apul.apol.
+cic. agr.
+cic. amicit.
+cic. arch.
+cic. att.
+cic. brut.
+cic. caec.
+cic. cael.
+cic. catil.
+cic. clu.
+cic. deiot.
+cic. deiot. 40 Caesar, quod fieri solet in tantis periculis, temptare ecquonam modo dicendo misericordiam tuam commovere possim. nihil opus est. occurrere solet ipsa supplicibus et calamitosis, nullius oratione evocata. propone tibi duos reges et id animo contemplare quod oculis non potes: dabis profecto id misericordiae quod iracundiae denegasti. multa sunt monumenta clementiae tuae, sed maxime eorum incolumitates quibus salutem dedisti. quae si in privatis gloriosa sunt, multo magis commemorabuntur in regibus. semper regium nomen in hac civitate sanctum fuit, sociorum vero regum et amicorum sanctissimum. quod nomen hi reges ne amitterent te victore
+cic. div.
+cic. div. cae.
+cic. fam.
+cic. fat.
+cic. fin.
+cic. flac. 
+cic. font.
+cic. inv.
+cic. lig.
+cic. luc.
+cic. man.
+cic. marc.
+cic. mil.
+cic. mur.
+cic. nat.
+cic. off.
+cic. opt.
+cic. orat.
+cic. orator.
+cic. parad.
+cic. part.
+cic. perd. 
+cic. phil.
+cic. pis.
+cic. planc.
+cic. post. 
+cic. quinct.
+cic. quint.
+cic. red. balb.
+cic. red. dom.
+cic. red. har.
+cic. red. pop.
+cic. red. prov.
+cic. red. sen.
+cic. red. sest.
+cic. red. vat.
+cic. rep.
+cic. rosc.
+cic. roscio.
+cic. scaur.
+cic. sen.
+cic. sul.
+cic. tim.
+cic. top.
+cic. tul.
+cic. tusc.
+cic. ver.
+claud. 3 hon.
+claud. 4 hon.
+claud. 6 hon.
+claud. app.
+claud. cm.
+claud. cons. olyb. et prob.
+claud. cons. stil.
+claud. eutr.
+claud. gild.
+claud. goth.
+claud. mall. theo.
+claud. nupt.
+claud. rapt. pros
+claud. ruf.
+col. rust.
+col. rust. 
+coripp. johann.
+curt. hist.
+drac. rom.
+enn. carm.
+ennius ann.
+flor. epit.
+gel. attic.
+hor. a.p.
+hor. c.s.
+hor. ep.
+hor. epod.
+hor. od.
+hor. s.
+il. lat.
+jer. ep.
+juv.
+juv. 6.O
+juvenc. hist. ev.
+laud. dom.
+livy. urbe.
+luc.
+lucr.
+mac. frag
+macro. sat.
+man. astr.
+mart.
+minuc. oct.
+nep. vitae.
+ov. am.
+ov. ars am.
+ov. fast.
+ov. her.
+ov. ib.
+ov. medic.
+ov. met.
+ov. pont.
+ov. red. am.
+ov. tr.
+paul c.
+pers. sat.
+petr. sat.
+pl. am. 
+pl. as. 
+pl. aul. 
+pl. bacch. 
+pl. capt. 
+pl. cas. 
+pl. cist. 
+pl. curc. 
+pl. ep. 
+pl. men. 
+pl. merc. 
+pl. mil. 
+pl. most. 
+pl. pers. 
+pl. poen. 
+pl. ps. 
+pl. rud. 
+pl. stich. 
+pl. trin. 
+pl. truc. 
+plin. nat.
+pliny_the_younger. Letters
+pol. anti.
+pol. epia
+pol. epia 8.
+pol. im.
+pol. im. 2.
+prop.
+prud. apo.
+prud. apo. de trinitate
+prud. apo. praefatio
+prud. ditto.
+prud. epil.
+prud. ham.
+prud. psych.
+prud. sym.
+ps. quint. maj. decl.
+ps. quint. maj. decl. 1.
+pseudo cic.
+q_cic. cons.
+rutil. de red.
+sal. 
+sal. Hist.
+scr. hist. aug.
+sen. ag. 
+sen. apoc.
+sen. ben.
+sen. brev. vit.
+sen. cl.
+sen. con.
+sen. cons. helv.
+sen. cons. marc.
+sen. cons. polyb.
+sen. const.
+sen. eld. fr.
+sen. exc. con.
+sen. her. f.
+sen. her. o. 
+sen. ira.
+sen. med.
+sen. oct. 
+sen. oct.  27
+sen. oed.
+sen. ot. sap. 
+sen. phaed.
+sen. phoen.
+sen. prov. 
+sen. suas.
+sen. thy.
+sen. tranq.
+sen. tro.
+sen. vit. beat. 
+sen.ep.
+serv. g.
+sil.
+stat. ach.
+stat. silv.
+stat. theb.
+suet. vit. aug.
+suet. vit. cal.
+suet. vit. cl.
+suet. vit. dom.
+suet. vit. gal.
+suet. vit. jul.
+suet. vit. nero.
+suet. vit. otho.
+suet. vit. tib.
+suet. vit. tit.
+suet. vit. ves.
+suet. vit. vit.
+tac. dial.
+tac. ger.
+tac. hist.
+ter. ad.
+ter. and.
+ter. eun.
+ter. heaut.
+ter. hec.
+ter. hec. 3.5.10Fuit dum vixit; et qui sic sunt haud multum heredem
+ter. phor.
+tert. apol.
+tert. desp.
+tib.
+tib. 3.Domiti
+v. max.
+valerius flaccus
+verg. aen.
+verg. ecl.
+verg. g.
+vitr.
+﻿mac. frag
+﻿ov. ib.
