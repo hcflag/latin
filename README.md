@@ -1,2 +1,5 @@
-# latin
-Digital editions of Latin texts
+# Latin
+
+Work in progress developing openly licensed, citable, fully analyzed digital editions of Latin texts.
+
+
