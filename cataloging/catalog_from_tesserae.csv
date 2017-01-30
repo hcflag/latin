@@ -588,9 +588,9 @@ URN,Author,Work
 ,Statius,Thebaid
 ,Strabo,Geography (Greek). Machine readable text
 ,Suetonius,De Vita Caesarum
-,Tacitus,Dialogus de Oratoribus
+urn:cts:latinLit:phi1351.phi003:,Tacitus,Dialogus de Oratoribus
 urn:cts:latinLit:phi1351.phi004:,Tacitus,Historiae
-,Tacitus,de Origine et Situ Germanorum Liber
+urn:cts:latinLit:phi1351.phi002:,Tacitus,de Origine et Situ Germanorum Liber
 ,Terence,Adelphi
 ,Terence,Andria
 ,Terence,Eunuchus
