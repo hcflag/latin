@@ -536,8 +536,8 @@ URN,Author,Work
 ,Pseudo-Quintilian,Major Declamations
 ,Q. Cicero,Essay on Running for Consul
 ,Quintilian,Institutio Oratoria
-,Sallust,	Catilina
-,Sallust,Iugurtha
+urn:cts:latinLit:phi0631.phi001:,Sallust,Catilina
+urn:cts:latinLit:phi0631.phi002:,Sallust,Iugurtha
 ,Scriptores Historiae Augustae,Historia Augusta
 ,Seneca,Ad Lucilium Epistulae Morales
 ,Seneca,Agamemnon
