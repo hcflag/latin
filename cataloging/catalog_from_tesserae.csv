@@ -146,10 +146,10 @@ URN,Author,Work
 ,Cicero,Timaeus
 ,Cicero,Topica
 ,Cicero,Tusculanae Disputationes
-,Claudianus,De consulatu Stilichonis
-,Claudianus,Epithalamium de nuptiis Honorii Augusti
-,Claudianus,de Bello Gothico
-,Claudianus,de raptu Proserpinae
+urn:cts:latinLit:stoa0089.stoa004:,Claudianus,De consulatu Stilichonis
+urn:cts:latinLit:stoa0089.stoa006:,Claudianus,Epithalamium de nuptiis Honorii Augusti
+urn:cts:latinLit:stoa0089.stoa003:,Claudianus,de Bello Gothico
+urn:cts:latinLit:stoa0089.stoa005:,Claudianus,de raptu Proserpinae
 ,Clement of Alexandria,Exhortation to Endurance or to the Newly Baptized
 ,Clement of Alexandria,Protrepticus
 ,Clement of Alexandria,Quis Dis Salvetur
