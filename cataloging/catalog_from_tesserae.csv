@@ -146,10 +146,10 @@ urn:cts:omar:stoa0023.stoa001:,Ammianus Marcellinus,Rerum Gestarum
 ,Cicero,Timaeus
 ,Cicero,Topica
 ,Cicero,Tusculanae Disputationes
-urn:cts:latinLit:stoa0089.stoa004:,Claudianus,De consulatu Stilichonis
-urn:cts:latinLit:stoa0089.stoa006:,Claudianus,Epithalamium de nuptiis Honorii Augusti
-urn:cts:latinLit:stoa0089.stoa003:,Claudianus,de Bello Gothico
-urn:cts:latinLit:stoa0089.stoa005:,Claudianus,de raptu Proserpinae
+urn:cts:omar:stoa0089.stoa004:,Claudianus,De consulatu Stilichonis
+urn:cts:omar:stoa0089.stoa006:,Claudianus,Epithalamium de nuptiis Honorii Augusti
+urn:cts:omar:stoa0089.stoa003:,Claudianus,de Bello Gothico
+urn:cts:omar:stoa0089.stoa005:,Claudianus,de raptu Proserpinae
 ,Clement of Alexandria,Exhortation to Endurance or to the Newly Baptized
 ,Clement of Alexandria,Protrepticus
 ,Clement of Alexandria,Quis Dis Salvetur
@@ -277,7 +277,7 @@ urn:cts:latinLit:stoa0089.stoa005:,Claudianus,de raptu Proserpinae
 ,Isaeus,Speeches (Greek). Machine readable text
 ,Jerome,Epistulae. Selections.
 ,Jerome,Vulgate
-urn:cts:latinLit:phi0448.phi001:,Julius Caesar,De Bello Gallico
+urn:cts:omar:phi0448.phi001:,Julius Caesar,De Bello Gallico
 ,Juvenal,Satires
 urn:cts:omar:phi0914.phi001:,Livy,Ab urbe condita
 ,Lucan,Pharsalia
@@ -536,8 +536,8 @@ urn:cts:omar:phi0914.phi001:,Livy,Ab urbe condita
 ,Pseudo-Quintilian,Major Declamations
 ,Q. Cicero,Essay on Running for Consul
 ,Quintilian,Institutio Oratoria
-urn:cts:latinLit:phi0631.phi001:,Sallust,Catilina
-urn:cts:latinLit:phi0631.phi002:,Sallust,Iugurtha
+urn:cts:omar:phi0631.phi001:,Sallust,Catilina
+urn:cts:omar:phi0631.phi002:,Sallust,Iugurtha
 ,Scriptores Historiae Augustae,Historia Augusta
 ,Seneca,Ad Lucilium Epistulae Morales
 ,Seneca,Agamemnon
