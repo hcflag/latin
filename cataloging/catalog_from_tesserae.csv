@@ -89,7 +89,7 @@ urn:cts:omar:stoa0023.stoa001:,Ammianus Marcellinus,Rerum Gestarum
 ,Chariton,De Chaerea et Callirhoe
 urn:cts:omar:phi0474.phi045:,Cicero,Academica
 urn:cts:omar:phi0474.phi059:,Cicero,Brutus
-urn:cts:omar:phi0474.phi019:,Cicero,Cum populo gratias egit
+,Cicero,Cum populo gratias egit
 urn:cts:omar:phi0474.phi052:,Cicero,De Amicitia
 urn:cts:omar:phi0474.phi053:,Cicero,De Divinatione
 urn:cts:omar:phi0474.phi054:,Cicero,De Fato
@@ -98,28 +98,28 @@ urn:cts:omar:phi0474.phi036:,Cicero,De Inventione
 urn:cts:omar:phi0474.phi055:,Cicero,De Officiis
 urn:cts:omar:phi0474.phi041:,Cicero,De Optimo Genere Oratorum
 urn:cts:omar:phi0474.phi037:,Cicero,De Oratore
-,Cicero,De Partitione Oratore
-,Cicero,De Republica
-,Cicero,De Senectute
-,Cicero,De domo sua
-,Cicero,De haruspicum responso
-,Cicero,De imperio Cn. Pompei
+urn:cts:latinLit:phi0474.phi038:,Cicero,De Partitione Oratore
+urn:cts:latinLit:phi0474.phi043:,Cicero,De Republica
+urn:cts:latinLit:phi0474.phi051:,Cicero,De Senectute
+urn:cts:latinLit:phi0474.phi020:,Cicero,De domo sua
+urn:cts:latinLit:phi0474.phi021:,Cicero,De haruspicum responso
+urn:cts:latinLit:phi0474.phi009:,Cicero,De imperio Cn. Pompei
 ,Cicero,De lege agraria contra Rullum
-,Cicero,De provinciis consularibus
+urn:cts:latinLit:phi0474.phi025:,Cicero,De provinciis consularibus
 ,Cicero,Divinatio in C. Verrem
-,Cicero,Divinatio in Q. Caecilius
+urn:cts:latinLit:phi0474.phi004:,Cicero,Divinatio in Q. Caecilius
 ,Cicero,Epistulae ad Familiares
-,Cicero,In Catilinam
-,Cicero,In L. Pisonem
-,Cicero,In Vatinium
-,Cicero,Letters to Atticus
-,Cicero,Letters to and from Brutus
-,Cicero,Letters to and from Quintus
-,Cicero,Lucullus
-,Cicero,Orator
+urn:cts:latinLit:phi0474.phi013:,Cicero,In Catilinam
+urn:cts:latinLit:phi0474.phi027:,Cicero,In L. Pisonem
+urn:cts:latinLit:phi0474.phi023:,Cicero,In Vatinium
+urn:cts:latinLit:phi0474.phi052:,Cicero,Letters to Atticus
+urn:cts:latinLit:phi0474.phi059:,Cicero,Letters to and from Brutus
+urn:cts:latinLit:phi0474.phi058:,Cicero,Letters to and from Quintus
+urn:cts:latinLit:phi0474.phi046:,Cicero,Lucullus
+urn:cts:latinLit:phi0474.phi040:,Cicero,Orator
 ,Cicero,Paradoxa stoicorum ad M. Brutum
-,Cicero,Philippicae
-,Cicero,Post reditum in senatu
+urn:cts:latinLit:phi0474.phi035:,Cicero,Philippicae
+urn:cts:latinLit:phi0474.phi019:,Cicero,Post reditum in senatu
 ,Cicero,Pro A. Caecina
 ,Cicero,Pro Archia
 ,Cicero,Pro Balbo
