@@ -82,7 +82,7 @@ urn:cts:omar:stoa0023.stoa001:,Ammianus Marcellinus,Rerum Gestarum
 ,Boethius,Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substanialia Bona
 ,Boethius,Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)
 ,Boethius,Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantiali ter Praedicentur Liber
-,Caesar Augustus,Res Gestae Divi Augusti
+urn:cts:latinLit:phi1221.phi007:,Caesar Augustus,Res Gestae Divi Augusti
 ,Callistratus,Statuaram Descriptiones
 ,Catullus,Carmina
 ,Celsus,De Medicina
@@ -439,8 +439,8 @@ urn:cts:omar:phi0914.phi001:,Livy,Ab urbe condita
 ,Plautus,Stichus
 ,Plautus,Trinummus
 ,Plautus,Truculentus
-,Pliny the Younger,Letters
-,Pliny the Elder,Naturalis Historia
+urn:cts:latinLit:phi1318.phi001:,Pliny the Younger,Letters
+urn:cts:latinLit:phi0978.phi001:,Pliny the Elder,Naturalis Historia
 ,Plutarch,Ad principem ineruditum
 ,Plutarch,Adversus Colotem
 ,Plutarch,Aemilius
@@ -603,7 +603,7 @@ urn:cts:omar:phi1351.phi002:,Tacitus,de Origine et Situ Germanorum Liber
 ,Thucydides,The Peleponnesian War
 ,Tibullus,Carmina
 ,Tryphiodorus,The Taking of Ilios
-,Valerius Maximus,Facta et Dicta Memorabilia
+urn:cts:latinLit:phi1038.phi001:,Valerius Maximus,Facta et Dicta Memorabilia
 ,Vergil,Aeneid
 ,Vergil,Eclogues
 ,Vergil,Georgics
