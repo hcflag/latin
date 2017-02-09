@@ -89,7 +89,7 @@ urn:cts:omar:stoa0023.stoa001:,Ammianus Marcellinus,Rerum Gestarum
 ,Chariton,De Chaerea et Callirhoe
 urn:cts:omar:phi0474.phi045:,Cicero,Academica
 urn:cts:omar:phi0474.phi059:,Cicero,Brutus
-,Cicero,Cum populo gratias egit
+urn:cts:latinLit:phi0474.phi018:,Cicero,Cum populo gratias egit
 urn:cts:omar:phi0474.phi052:,Cicero,De Amicitia
 urn:cts:omar:phi0474.phi053:,Cicero,De Divinatione
 urn:cts:omar:phi0474.phi054:,Cicero,De Fato
@@ -104,9 +104,9 @@ urn:cts:latinLit:phi0474.phi051:,Cicero,De Senectute
 urn:cts:latinLit:phi0474.phi020:,Cicero,De domo sua
 urn:cts:latinLit:phi0474.phi021:,Cicero,De haruspicum responso
 urn:cts:latinLit:phi0474.phi009:,Cicero,De imperio Cn. Pompei
-,Cicero,De lege agraria contra Rullum
+urn:cts:latinLit:phi0474.phi011:,Cicero,De lege agraria contra Rullum
 urn:cts:latinLit:phi0474.phi025:,Cicero,De provinciis consularibus
-,Cicero,Divinatio in C. Verrem
+urn:cts:latinLit:phi0474.phi005:,Cicero,Divinatio in C. Verrem
 urn:cts:latinLit:phi0474.phi004:,Cicero,Divinatio in Q. Caecilius
 urn:cts:latinLit:phi0474.phi056:,Cicero,Epistulae ad Familiares
 urn:cts:latinLit:phi0474.phi013:,Cicero,In Catilinam
@@ -117,7 +117,7 @@ urn:cts:latinLit:phi0474.phi059:,Cicero,Letters to and from Brutus
 urn:cts:latinLit:phi0474.phi058:,Cicero,Letters to and from Quintus
 urn:cts:latinLit:phi0474.phi046:,Cicero,Lucullus
 urn:cts:latinLit:phi0474.phi040:,Cicero,Orator
-,Cicero,Paradoxa stoicorum ad M. Brutum
+urn:cts:latinLit:phi0474.phi047:,Cicero,Paradoxa stoicorum ad M. Brutum
 urn:cts:latinLit:phi0474.phi035:,Cicero,Philippicae
 urn:cts:latinLit:phi0474.phi019:,Cicero,Post reditum in senatu
 urn:cts:latinLit:phi0474.phi008:,Cicero,Pro A. Caecina
