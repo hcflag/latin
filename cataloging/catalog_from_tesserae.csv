@@ -420,25 +420,25 @@ urn:cts:latinLit:phi0588.phi001:,Nepos,Vitae
 ,Plato,Theaetetus
 ,Plato,Theages
 ,Plato,Timaeus
-,Plautus,Amphitruo
-,Plautus,Asinaria
-,Plautus,Aulularia
-,Plautus,Bacchides
-,Plautus,Captivi
-,Plautus,Casina
-,Plautus,Cistellaria
-,Plautus,Curculio
-,Plautus,Epidicus
-,Plautus,Menaechmi
-,Plautus,Mercator
-,Plautus,Miles Gloriosus
-,Plautus,Mostellaria
-,Plautus,Persa
-,Plautus,Poenulus
-,Plautus,Rudens
-,Plautus,Stichus
-,Plautus,Trinummus
-,Plautus,Truculentus
+urn:cts:latinLit:phi0119.phi001:,Plautus,Amphitruo
+urn:cts:latinLit:phi0119.phi002:,Plautus,Asinaria
+urn:cts:latinLit:phi0119.phi003:,Plautus,Aulularia
+urn:cts:latinLit:phi0119.phi004:,Plautus,Bacchides
+urn:cts:latinLit:phi0119.phi005:,Plautus,Captivi
+urn:cts:latinLit:phi0119.phi006:,Plautus,Casina
+urn:cts:latinLit:phi0119.phi007:,Plautus,Cistellaria
+urn:cts:latinLit:phi0119.phi008:,Plautus,Curculio
+urn:cts:latinLit:phi0119.phi009:,Plautus,Epidicus
+urn:cts:latinLit:phi0119.phi010:,Plautus,Menaechmi
+urn:cts:latinLit:phi0119.phi011:,Plautus,Mercator
+urn:cts:latinLit:phi0119.phi012:,Plautus,Miles Gloriosus
+urn:cts:latinLit:phi0119.phi013:,Plautus,Mostellaria
+urn:cts:latinLit:phi0119.phi014:,Plautus,Persa
+urn:cts:latinLit:phi0119.phi015:,Plautus,Poenulus
+urn:cts:latinLit:phi0119.phi017:,Plautus,Rudens
+urn:cts:latinLit:phi0119.phi017:,Plautus,Stichus
+urn:cts:latinLit:phi0119.phi019:,Plautus,Trinummus
+urn:cts:latinLit:phi0119.phi020:,Plautus,Truculentus
 urn:cts:latinLit:phi1318.phi001:,Pliny the Younger,Letters
 urn:cts:latinLit:phi0978.phi001:,Pliny the Elder,Naturalis Historia
 ,Plutarch,Ad principem ineruditum
@@ -591,12 +591,12 @@ urn:cts:latinLit:phi1348.phi001:,Suetonius,De Vita Caesarum
 urn:cts:omar:phi1351.phi003:,Tacitus,Dialogus de Oratoribus
 urn:cts:omar:phi1351.phi004:,Tacitus,Historiae
 urn:cts:omar:phi1351.phi002:,Tacitus,de Origine et Situ Germanorum Liber
-,Terence,Adelphi
-,Terence,Andria
-,Terence,Eunuchus
-,Terence,Heautontimorumenos
-,Terence,Hecyra
-,Terence,Phormio
+urn:cts:latinLit:phi0134.phi006:,Terence,Adelphi
+urn:cts:latinLit:phi0134.phi001:,Terence,Andria
+urn:cts:latinLit:phi0134.phi003:,Terence,Eunuchus
+urn:cts:latinLit:phi0134.phi002:,Terence,Heautontimorumenos
+urn:cts:latinLit:phi0134.phi005:,Terence,Hecyra
+urn:cts:latinLit:phi0134.phi004:,Terence,Phormio
 ,Tertullian,Apologeticum
 ,Tertullian,De Spectaculis
 ,Theophrastus,Characters
