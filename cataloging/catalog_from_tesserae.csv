@@ -84,7 +84,7 @@ urn:cts:latinLit:stoa0058.stoa025:,Boethius,Quomodo Trinitas Unus Deus Ac Non Tr
 urn:cts:latinLit:stoa0058.stoa028:,Boethius,Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantiali ter Praedicentur Liber
 urn:cts:latinLit:phi1221.phi007:,Caesar Augustus,Res Gestae Divi Augusti
 ,Callistratus,Statuaram Descriptiones
-,Catullus,Carmina
+urn:cts:latinLit:phi0472.phi001:,Catullus,Carmina
 ,Celsus,De Medicina
 ,Chariton,De Chaerea et Callirhoe
 urn:cts:omar:phi0474.phi045:,Cicero,Academica
@@ -261,26 +261,26 @@ urn:cts:latinLit:phi0860.phi001:,Curtius Rufus,Historiae Alexandri Magni
 ,Flavius Josephus,Antiquitates Judaicae
 ,Flavius Josephus,Contra Apionem
 ,Flavius Josephus,De Bello Judaico Libri Vii
-,Florus,Epitome Rerum Romanorum
+urn:cts:latinLit:phi1242.phi001:,Florus,Epitome Rerum Romanorum
 ,Galen,On the Natural Faculties.
 urn:cts:latinLit:phi1254.phi001:,Gellius,Attic Nights
 ,Glass,Washingtonii Vita
 ,Herodotus,The Histories
 ,Hippocrates,Hippocrates Collected Works I
-,Horace,Ars Poetica
-,Horace,Carmen Saeculare
-,Horace,Epistles
-,Horace,Epodes
-,Horace,Odes
-,Horace,Satires
+urn:cts:latinLit:phi0893.phi006:,Horace,Ars Poetica
+urn:cts:latinLit:phi0893.phi002:,Horace,Carmen Saeculare
+urn:cts:latinLit:phi0893.phi005:,Horace,Epistles
+urn:cts:latinLit:phi0893.phi003:,Horace,Epodes
+urn:cts:latinLit:phi0893.phi001:,Horace,Odes
+urn:cts:latinLit:phi0893.phi004:,Horace,Satires
 ,Hyperides,Speeches (Greek). Machine readable text
 ,Isaeus,Speeches (Greek). Machine readable text
 ,Jerome,Epistulae. Selections.
 ,Jerome,Vulgate
 urn:cts:omar:phi0448.phi001:,Julius Caesar,De Bello Gallico
-,Juvenal,Satires
+urn:cts:latinLit:phi1276.phi001:,Juvenal,Satires
 urn:cts:omar:phi0914.phi001:,Livy,Ab urbe condita
-,Lucan,Pharsalia
+urn:cts:latinLit:phi0917.phi001:,Lucan,Pharsalia
 ,Lucian,Abdicatus
 ,Lucian,Adversus indoctum et libros multos ementem
 ,Lucian,Alexander
@@ -362,15 +362,15 @@ urn:cts:latinLit:phi0588.phi001:,Nepos,Vitae
 ,Nonnus of Panopolis,Dionysiaca
 ,Oppian of Apamea,Cynegetica
 ,Oppian,Halieutica
-,Ovid,Amores
-,Ovid,Ars Amatoria
-,Ovid,Ex Ponto
-,Ovid,Fasti
+urn:cts:latinLit:phi0959.phi001:,Ovid,Amores
+urn:cts:latinLit:phi0959.phi004:,Ovid,Ars Amatoria
+urn:cts:latinLit:phi0959.phi009:,Ovid,Ex Ponto
+urn:cts:latinLit:phi0959.phi007:,Ovid,Fasti
 ,Ovid,Heroides
-,Ovid,Medicamina Faciei Femineae
-,Ovid,Metamorphoses
-,Ovid,Remedia Amoris
-,Ovid,Tristia
+urn:cts:latinLit:phi0959.phi003:,Ovid,Medicamina Faciei Femineae
+urn:cts:latinLit:phi0959.phi006:,Ovid,Metamorphoses
+urn:cts:latinLit:phi0959.phi005:,Ovid,Remedia Amoris
+urn:cts:latinLit:phi0959.phi008:,Ovid,Tristia
 ,Pausanias,Description of Greece (Greek). Machine readable text
 ,Persius,Satires
 ,Philostratus the Athenian,De Gymnastica
@@ -604,8 +604,8 @@ urn:cts:latinLit:phi0134.phi004:,Terence,Phormio
 ,Tibullus,Carmina
 ,Tryphiodorus,The Taking of Ilios
 urn:cts:latinLit:phi1038.phi001:,Valerius Maximus,Facta et Dicta Memorabilia
-,Vergil,Aeneid
-,Vergil,Eclogues
-,Vergil,Georgics
+urn:cts:latinLit:phi0690.phi003:,Vergil,Aeneid
+urn:cts:latinLit:phi0690.phi001:,Vergil,Eclogues
+urn:cts:latinLit:phi0690.phi002:,Vergil,Georgics
 urn:cts:latinLit:phi1056.phi001:,Vitruvius Pollio,De Architectura
 ,Xenophon,Anabasis
