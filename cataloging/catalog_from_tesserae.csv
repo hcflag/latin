@@ -76,12 +76,12 @@ urn:cts:latinLit:phi1212.phi001:,Apulieus,Apologia
 ,Bede,Historiam ecclesiasticam gentis Anglorum
 ,Bion of Phlossa,Epitaphius Adonis
 ,Bion of Phlossa,Epithalamium Achillis et Deidameiae
-,Boethius,Consolatio Philosophiae
+urn:cts:latinLit:stoa0058.stoa001:,Boethius,Consolatio Philosophiae
 ,Boethius,De Fide Catholica
-,Boethius,Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium
-,Boethius,Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substanialia Bona
-,Boethius,Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)
-,Boethius,Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantiali ter Praedicentur Liber
+urn:cts:latinLit:stoa0058.stoa023:,Boethius,Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium
+urn:cts:latinLit:stoa0058.stoa003:,Boethius,Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substanialia Bona
+urn:cts:latinLit:stoa0058.stoa025:,Boethius,Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)
+urn:cts:latinLit:stoa0058.stoa028:,Boethius,Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantiali ter Praedicentur Liber
 urn:cts:latinLit:phi1221.phi007:,Caesar Augustus,Res Gestae Divi Augusti
 ,Callistratus,Statuaram Descriptiones
 ,Catullus,Carmina
@@ -263,7 +263,7 @@ urn:cts:latinLit:phi0860.phi001:,Curtius Rufus,Historiae Alexandri Magni
 ,Flavius Josephus,De Bello Judaico Libri Vii
 ,Florus,Epitome Rerum Romanorum
 ,Galen,On the Natural Faculties.
-,Gellius,Attic Nights
+urn:cts:latinLit:phi1254.phi001:,Gellius,Attic Nights
 ,Glass,Washingtonii Vita
 ,Herodotus,The Histories
 ,Hippocrates,Hippocrates Collected Works I
@@ -470,7 +470,7 @@ urn:cts:latinLit:phi0978.phi001:,Pliny the Elder,Naturalis Historia
 ,Plutarch,Cato the Younger
 ,Plutarch,Comparison of Dion and Brutus
 ,Plutarch,Cimon
-,Plutarch,Cleomenes
+,Plutarch,Cleomenesf
 ,Plutarch,Comparationis Aristophanis et Menandri compendium
 ,Plutarch,Comparison of Agesilaus and Pompey
 ,Plutarch,Comparison of Agis and Cleomenes and the Gracchi
