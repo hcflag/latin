@@ -358,7 +358,7 @@ urn:cts:omar:phi0914.phi001:,Livy,Ab urbe condita
 ,Lycurgus,Speeches (Greek). Machine readable text
 ,Marcus Aurelius,M. Antonius Imperator Ad Se Ipsum
 ,Martial,Epigrams
-,Nepos,Vitae
+urn:cts:latinLit:phi0588.phi001:,Nepos,Vitae
 ,Nonnus of Panopolis,Dionysiaca
 ,Oppian of Apamea,Cynegetica
 ,Oppian,Halieutica
@@ -535,38 +535,38 @@ urn:cts:latinLit:phi0978.phi001:,Pliny the Elder,Naturalis Historia
 ,Pseudo-Plutarch,Placita Philosophorum
 ,Pseudo-Quintilian,Major Declamations
 ,Q. Cicero,Essay on Running for Consul
-,Quintilian,Institutio Oratoria
+urn:cts:latinLit:phi1002.phi001:,Quintilian,Institutio Oratoria
 urn:cts:omar:phi0631.phi001:,Sallust,Catilina
 urn:cts:omar:phi0631.phi002:,Sallust,Iugurtha
-,Scriptores Historiae Augustae,Historia Augusta
-,Seneca,Ad Lucilium Epistulae Morales
-,Seneca,Agamemnon
-,Seneca,Apocolocyntosis
-,Seneca the Elder,Controversiae
-,Seneca,De Beneficiis
-,Seneca,De Brevitate Vitae
-,Seneca,De Clementia
-,Seneca,De Consolatione ad Helvium
-,Seneca,De Consolatione ad Marciam
-,Seneca,De Consolatione ad Polybium
-,Seneca,De Constantia
-,Seneca,De Ira
-,Seneca,De Otio
-,Seneca,De Providentia
-,Seneca,De Tranquillitate Animi
-,Seneca,De Vita Beata
-,Seneca the Elder,Excerpta Controversiae
-,Seneca the Elder,Fragmenta
-,Seneca,Hercules Furens
-,Seneca,Hercules Oetaeus
-,Seneca,Medea
-,Seneca,Octavia
-,Seneca,Oedipus
-,Seneca,Phaedra
-,Seneca,Phoenissae
-,Seneca the Elder,Suasoriae
-,Seneca,Thyestes
-,Seneca,Troades
+urn:cts:latinLit:phi2331.phi001:,Scriptores Historiae Augustae,Historia Augusta
+urn:cts:latinLit:phi1017.phi015:,Seneca,Ad Lucilium Epistulae Morales
+urn:cts:latinLit:phi1017.phi007:,Seneca,Agamemnon
+urn:cts:latinLit:phi1017.phi011:,Seneca,Apocolocyntosis
+urn:cts:latinLit:phi1014.phi001:,Seneca the Elder,Controversiae
+urn:cts:latinLit:phi1017.phi013:,Seneca,De Beneficiis
+urn:cts:latinLit:stoa0255.stoa004:,Seneca,De Brevitate Vitae
+urn:cts:latinLit:phi1017.phi014:,Seneca,De Clementia
+urn:cts:latinLit:stoa0255.stoa006:,Seneca,De Consolatione ad Helvium
+urn:cts:latinLit:stoa0255.stoa007:,Seneca,De Consolatione ad Marciam
+urn:cts:latinLit:stoa0255.stoa008:,Seneca,De Consolatione ad Polybium
+urn:cts:latinLit:stoa0255.stoa009:,Seneca,De Constantia
+urn:cts:latinLit:stoa0255.stoa010:,Seneca,De Ira
+urn:cts:latinLit:stoa0255.stoa011:,Seneca,De Otio
+urn:cts:latinLit:stoa0255.stoa012:,Seneca,De Providentia
+urn:cts:latinLit:stoa0255.stoa013:,Seneca,De Tranquillitate Animi
+urn:cts:latinLit:stoa0255.stoa014:,Seneca,De Vita Beata
+urn:cts:latinLit:phi1014.phi002:,Seneca the Elder,Excerpta Controversiae
+urn:cts:latinLit:phi1014.phi004:,Seneca the Elder,Fragmenta
+urn:cts:latinLit:phi1017.phi001:,Seneca,Hercules Furens
+urn:cts:latinLit:phi1017.phi009:,Seneca,Hercules Oetaeus
+urn:cts:latinLit:phi1017.phi004:,Seneca,Medea
+urn:cts:latinLit:phi1017.phi010:,Seneca,Octavia
+urn:cts:latinLit:phi1017.phi006:,Seneca,Oedipus
+urn:cts:latinLit:phi1017.phi005:,Seneca,Phaedra
+urn:cts:latinLit:phi1017.phi003:,Seneca,Phoenissae
+urn:cts:latinLit:phi1014.phi003:,Seneca the Elder,Suasoriae
+urn:cts:latinLit:phi1017.phi008:,Seneca,Thyestes
+urn:cts:latinLit:phi1017.phi002:,Seneca,Troades
 ,Servius Honoratus,Commentary on the Aeneid of Vergil
 ,Servius Honoratus,Commentary on the Eclogues of Vergil
 ,Servius Honoratus,Commentary on the Georgics of Vergil
@@ -587,7 +587,7 @@ urn:cts:omar:phi0631.phi002:,Sallust,Iugurtha
 ,Statius,Silvae
 ,Statius,Thebaid
 ,Strabo,Geography (Greek). Machine readable text
-,Suetonius,De Vita Caesarum
+urn:cts:latinLit:phi1348.phi001:,Suetonius,De Vita Caesarum
 urn:cts:omar:phi1351.phi003:,Tacitus,Dialogus de Oratoribus
 urn:cts:omar:phi1351.phi004:,Tacitus,Historiae
 urn:cts:omar:phi1351.phi002:,Tacitus,de Origine et Situ Germanorum Liber
