@@ -13,7 +13,7 @@ URN,Author,Work
 ,Aeschylus,Prometheus Bound
 ,Aeschylus,Seven Against Thebes
 ,Aeschylus,Suppliant Women
-,Ammianus Marcellinus,Rerum Gestarum
+urn:cts:omar:stoa0023.stoa001:,Ammianus Marcellinus,Rerum Gestarum
 ,Anonymous,Laudes Domini
 ,Antiphon,Against the Stepmother for Poisoning
 ,Antiphon,First Tetralogy
@@ -25,9 +25,9 @@ URN,Author,Work
 ,Apollodorus,Library
 ,Appian,The Civil Wars
 ,Appolonius,Argonautica
-,Apuleius,Florida
-,Apuleius,Metamorphoses
-,Apulieus,Apologia
+urn:cts:latinLit:phi1212.phi003:,Apuleius,Florida
+urn:cts:latinLit:phi1212.phi002:,Apuleius,Metamorphoses
+urn:cts:latinLit:phi1212.phi001:,Apulieus,Apologia
 ,Aristophanes,Acharnians
 ,Aristophanes,Birds
 ,Aristophanes,Clouds
@@ -49,113 +49,113 @@ URN,Author,Work
 ,Aristotle,Rhetoric
 ,Aristotle,Virtues and Vices
 ,Athenaeus,The Deipnosophists
-,Augustine,Epistulae. Selections
-,Ausonius,Ausonii Burdigalensis Vasatis Gratiarum Actio Ad Grati Angratianum Imperatorem Pro Consulatu
-,Ausonius,Ausonii de XII Caesaribus per Suetonium Tranquillum scriptis
-,Ausonius,Cento Nuptialis
-,Ausonius,Commemoratio professorum Burdigalensium
-,Ausonius,Cupido cruciatur
-,Ausonius,De Bissula
-,Ausonius,De Herediolo
-,Decimus Magnus Ausonius,Ephemeris
-,Ausonius,Epicedion in Patrem
-,Decimus Magnus Ausonius,Epigrammata Ausonii de diversis rebus
-,Decimus Magnus Ausonius,Epistularum
-,Decimus Magnus Ausonius,Epitaphia heroum qui bello Troico interfuerunt
-,Decimus Magnus Ausonius,Fasti
-,Ausonius,Griphus Ternarii numeri
-,Decimus Magnus Ausonius,Ludus Septem Sapientum
-,Ausonius,Mosella
-,Ausonius,Oratio Consulis Ausonii Versibus Ropalicis
-,Decimus Magnus Ausonius,Ordo Urbium Nobilium
-,Decimus Magnus Ausonius,Parentalia
-,Decimus Magnus Ausonius,Praefatiunculae
-,Decimus Magnus Ausonius,Precationes
-,Decimus Magnus Ausonius,Technopaegnion
+urn:cts:latinLit:stoa0040.stoa0011:,Augustine,Epistulae. Selections
+urn:cts:latinLit:stoa0045.stoa014:,Ausonius,Ausonii Burdigalensis Vasatis Gratiarum Actio Ad Grati Angratianum Imperatorem Pro Consulatu
+urn:cts:latinLit:stoa0045.stoa002:,Ausonius,Ausonii de XII Caesaribus per Suetonium Tranquillum scriptis
+urn:cts:latinLit:stoa0045.stoa003:,Ausonius,Cento Nuptialis
+urn:cts:latinLit:stoa0045.stoa004:,Ausonius,Commemoratio professorum Burdigalensium
+urn:cts:latinLit:stoa0045.stoa005:,Ausonius,Cupido cruciatur
+urn:cts:latinLit:stoa0045.stoa001:,Ausonius,De Bissula
+urn:cts:latinLit:stoa0045.stoa006:,Ausonius,De Herediolo
+urn:cts:latinLit:stoa0045.stoa008:,Decimus Magnus Ausonius,Ephemeris
+urn:cts:latinLit:stoa0045.stoa009:,Ausonius,Epicedion in Patrem
+urn:cts:latinLit:stoa0045.stoa010:,Decimus Magnus Ausonius,Epigrammata Ausonii de diversis rebus
+urn:cts:latinLit:stoa0045.stoa011:,Decimus Magnus Ausonius,Epistularum
+urn:cts:latinLit:stoa0045.stoa012:,Decimus Magnus Ausonius,Epitaphia heroum qui bello Troico interfuerunt
+urn:cts:latinLit:stoa0045.stoa017:,Decimus Magnus Ausonius,Fasti
+urn:cts:latinLit:stoa0045.stoa015:,Ausonius,Griphus Ternarii numeri
+urn:cts:latinLit:stoa0045.stoa018:,Decimus Magnus Ausonius,Ludus Septem Sapientum
+urn:cts:latinLit:stoa0045.stoa019:,Ausonius,Mosella
+urn:cts:latinLit:stoa0045.stoa020:,Ausonius,Oratio Consulis Ausonii Versibus Ropalicis
+urn:cts:latinLit:stoa0045.stoa021:,Decimus Magnus Ausonius,Ordo Urbium Nobilium
+urn:cts:latinLit:stoa0045.stoa022:,Decimus Magnus Ausonius,Parentalia
+urn:cts:latinLit:stoa0045.stoa025:,Decimus Magnus Ausonius,Praefatiunculae
+urn:cts:latinLit:stoa0045.stoa026:,Decimus Magnus Ausonius,Precationes
+urn:cts:latinLit:stoa0045.stoa028:,Decimus Magnus Ausonius,Technopaegnion
 ,Barnabas,Barnabae Epistula
 ,Bede,Historiam ecclesiasticam gentis Anglorum
 ,Bion of Phlossa,Epitaphius Adonis
 ,Bion of Phlossa,Epithalamium Achillis et Deidameiae
-,Boethius,Consolatio Philosophiae
+urn:cts:latinLit:stoa0058.stoa001:,Boethius,Consolatio Philosophiae
 ,Boethius,De Fide Catholica
-,Boethius,Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium
-,Boethius,Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substanialia Bona
-,Boethius,Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)
-,Boethius,Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantiali ter Praedicentur Liber
-,Caesar Augustus,Res Gestae Divi Augusti
+urn:cts:latinLit:stoa0058.stoa023:,Boethius,Liber De Persona et Duabus Naturis Contra Eutychen Et Nestorium
+urn:cts:latinLit:stoa0058.stoa003:,Boethius,Quomodo Substantiae in Eo Quod Sint Bonae Sint Cum Non Sint Substanialia Bona
+urn:cts:latinLit:stoa0058.stoa025:,Boethius,Quomodo Trinitas Unus Deus Ac Non Tres Dii (De Trinitate)
+urn:cts:latinLit:stoa0058.stoa028:,Boethius,Utrum Pater Et Filius Ac Spiritus Sanctus De Divinitate Substantiali ter Praedicentur Liber
+urn:cts:latinLit:phi1221.phi007:,Caesar Augustus,Res Gestae Divi Augusti
 ,Callistratus,Statuaram Descriptiones
-,Catullus,Carmina
-,Celsus,De Medicina
+urn:cts:latinLit:phi0472.phi001:,Catullus,Carmina
+urn:cts:latinLit:phi0836.phi002:,Celsus,De Medicina
 ,Chariton,De Chaerea et Callirhoe
-,Cicero,Academica
-,Cicero,Brutus
-,Cicero,Cum populo gratias egit
-,Cicero,De Amicitia
-,Cicero,De Divinatione
-,Cicero,De Fato
-,Cicero,De Finibus Bonorum et Malorum
-,Cicero,De Inventione
-,Cicero,De Officiis
-,Cicero,De Optimo Genere Oratorum
-,Cicero,De Oratore
-,Cicero,De Partitione Oratore
-,Cicero,De Republica
-,Cicero,De Senectute
-,Cicero,De domo sua
-,Cicero,De haruspicum responso
-,Cicero,De imperio Cn. Pompei
-,Cicero,De lege agraria contra Rullum
-,Cicero,De provinciis consularibus
-,Cicero,Divinatio in C. Verrem
-,Cicero,Divinatio in Q. Caecilius
-,Cicero,Epistulae ad Familiares
-,Cicero,In Catilinam
-,Cicero,In L. Pisonem
-,Cicero,In Vatinium
-,Cicero,Letters to Atticus
-,Cicero,Letters to and from Brutus
-,Cicero,Letters to and from Quintus
-,Cicero,Lucullus
-,Cicero,Orator
-,Cicero,Paradoxa stoicorum ad M. Brutum
-,Cicero,Philippicae
-,Cicero,Post reditum in senatu
-,Cicero,Pro A. Caecina
-,Cicero,Pro Archia
-,Cicero,Pro Balbo
-,Cicero,Pro C. Rabiro perduellionis reo
-,Cicero,Pro C. Rabiro postumo
-,Cicero,Pro Cluentio
-,Cicero,Pro Fonteio
-,Cicero,Pro L. Flacco
-,Cicero,Pro Ligario
-,Cicero,Pro M. Caelio
-,Cicero,Pro Marcello
-,Cicero,Pro Milone
-,Cicero,Pro Murena
-,Cicero,Pro Plancio
-,Cicero,Pro Publius Quincto
-,Cicero,Pro Q. Roscio comoedo
-,Cicero,Pro Rabiro perduellionis reo
-,Cicero,Pro Rege Deiotaro
-,Cicero,Pro S. Roscio
-,Cicero,Pro Scauro
-,Cicero,Pro Sestio
-,Cicero,Pro Sulla
-,Cicero,Pro Tullio
-,Cicero,Timaeus
-,Cicero,Topica
-,Cicero,Tusculanae Disputationes
-,Claudianus,De consulatu Stilichonis
-,Claudianus,Epithalamium de nuptiis Honorii Augusti
-,Claudianus,de Bello Gothico
-,Claudianus,de raptu Proserpinae
+urn:cts:omar:phi0474.phi045:,Cicero,Academica
+urn:cts:omar:phi0474.phi059:,Cicero,Brutus
+urn:cts:latinLit:phi0474.phi018:,Cicero,Cum populo gratias egit
+urn:cts:omar:phi0474.phi052:,Cicero,De Amicitia
+urn:cts:omar:phi0474.phi053:,Cicero,De Divinatione
+urn:cts:omar:phi0474.phi054:,Cicero,De Fato
+urn:cts:omar:phi0474.phi048:,Cicero,De Finibus Bonorum et Malorum
+urn:cts:omar:phi0474.phi036:,Cicero,De Inventione
+urn:cts:omar:phi0474.phi055:,Cicero,De Officiis
+urn:cts:omar:phi0474.phi041:,Cicero,De Optimo Genere Oratorum
+urn:cts:omar:phi0474.phi037:,Cicero,De Oratore
+urn:cts:latinLit:phi0474.phi038:,Cicero,De Partitione Oratore
+urn:cts:latinLit:phi0474.phi043:,Cicero,De Republica
+urn:cts:latinLit:phi0474.phi051:,Cicero,De Senectute
+urn:cts:latinLit:phi0474.phi020:,Cicero,De domo sua
+urn:cts:latinLit:phi0474.phi021:,Cicero,De haruspicum responso
+urn:cts:latinLit:phi0474.phi009:,Cicero,De imperio Cn. Pompei
+urn:cts:latinLit:phi0474.phi011:,Cicero,De lege agraria contra Rullum
+urn:cts:latinLit:phi0474.phi025:,Cicero,De provinciis consularibus
+urn:cts:latinLit:phi0474.phi005:,Cicero,Divinatio in C. Verrem
+urn:cts:latinLit:phi0474.phi004:,Cicero,Divinatio in Q. Caecilius
+urn:cts:latinLit:phi0474.phi056:,Cicero,Epistulae ad Familiares
+urn:cts:latinLit:phi0474.phi013:,Cicero,In Catilinam
+urn:cts:latinLit:phi0474.phi027:,Cicero,In L. Pisonem
+urn:cts:latinLit:phi0474.phi023:,Cicero,In Vatinium
+urn:cts:latinLit:phi0474.phi052:,Cicero,Letters to Atticus
+urn:cts:latinLit:phi0474.phi059:,Cicero,Letters to and from Brutus
+urn:cts:latinLit:phi0474.phi058:,Cicero,Letters to and from Quintus
+urn:cts:latinLit:phi0474.phi046:,Cicero,Lucullus
+urn:cts:latinLit:phi0474.phi040:,Cicero,Orator
+urn:cts:latinLit:phi0474.phi047:,Cicero,Paradoxa stoicorum ad M. Brutum
+urn:cts:latinLit:phi0474.phi035:,Cicero,Philippicae
+urn:cts:latinLit:phi0474.phi019:,Cicero,Post reditum in senatu
+urn:cts:latinLit:phi0474.phi008:,Cicero,Pro A. Caecina
+urn:cts:latinLit:phi0474.phi016:,Cicero,Pro Archia
+urn:cts:latinLit:phi0474.phi026:,Cicero,Pro Balbo
+urn:cts:latinLit:phi0474.phi012:,Cicero,Pro C. Rabiro perduellionis reo
+urn:cts:latinLit:phi0474.phi030:,Cicero,Pro C. Rabiro postumo
+urn:cts:latinLit:phi0474.phi010:,Cicero,Pro Cluentio
+urn:cts:latinLit:phi0474.phi007:,Cicero,Pro Fonteio
+urn:cts:latinLit:phi0474.phi017:,Cicero,Pro L. Flacco
+urn:cts:latinLit:phi0474.phi033:,Cicero,Pro Ligario
+urn:cts:latinLit:phi0474.phi024:,Cicero,Pro M. Caelio
+urn:cts:latinLit:phi0474.phi032:,Cicero,Pro Marcello
+urn:cts:latinLit:phi0474.phi031:,Cicero,Pro Milone
+urn:cts:latinLit:phi0474.phi014:,Cicero,Pro Murena
+urn:cts:latinLit:phi0474.phi028:,Cicero,Pro Plancio
+urn:cts:latinLit:phi0474.phi001:,Cicero,Pro Publius Quincto
+urn:cts:latinLit:phi0474.phi003:,Cicero,Pro Q. Roscio comoedo
+urn:cts:latinLit:phi0474.phi012:,Cicero,Pro Rabiro perduellionis reo
+urn:cts:latinLit:phi0474.phi034:,Cicero,Pro Rege Deiotaro
+urn:cts:latinLit:phi0474.phi002:,Cicero,Pro S. Roscio
+urn:cts:latinLit:phi0474.phi029:,Cicero,Pro Scauro
+urn:cts:latinLit:phi0474.phi022:,Cicero,Pro Sestio
+urn:cts:latinLit:phi0474.phi015:,Cicero,Pro Sulla
+urn:cts:latinLit:phi0474.phi006:,Cicero,Pro Tullio
+urn:cts:latinLit:phi0474.phi072:,Cicero,Timaeus
+urn:cts:latinLit:phi0474.phi042:,Cicero,Topica
+urn:cts:latinLit:phi0474.phi049:,Cicero,Tusculanae Disputationes
+urn:cts:omar:stoa0089.stoa004:,Claudianus,De consulatu Stilichonis
+urn:cts:omar:stoa0089.stoa006:,Claudianus,Epithalamium de nuptiis Honorii Augusti
+urn:cts:omar:stoa0089.stoa003:,Claudianus,de Bello Gothico
+urn:cts:omar:stoa0089.stoa005:,Claudianus,de raptu Proserpinae
 ,Clement of Alexandria,Exhortation to Endurance or to the Newly Baptized
 ,Clement of Alexandria,Protrepticus
 ,Clement of Alexandria,Quis Dis Salvetur
 ,Colluthus,Rape of Helen
 ,Columella,Res Rustica
-,Curtius Rufus,Historiae Alexandri Magni
+urn:cts:latinLit:phi0860.phi001:,Curtius Rufus,Historiae Alexandri Magni
 ,Demades,On the Twelve Years
 ,Demosthenes,Against Androtion
 ,Demosthenes,Against Apatourius
@@ -261,26 +261,26 @@ URN,Author,Work
 ,Flavius Josephus,Antiquitates Judaicae
 ,Flavius Josephus,Contra Apionem
 ,Flavius Josephus,De Bello Judaico Libri Vii
-,Florus,Epitome Rerum Romanorum
+urn:cts:latinLit:phi1242.phi001:,Florus,Epitome Rerum Romanorum
 ,Galen,On the Natural Faculties.
-,Gellius,Attic Nights
+urn:cts:latinLit:phi1254.phi001:,Gellius,Attic Nights
 ,Glass,Washingtonii Vita
 ,Herodotus,The Histories
 ,Hippocrates,Hippocrates Collected Works I
-,Horace,Ars Poetica
-,Horace,Carmen Saeculare
-,Horace,Epistles
-,Horace,Epodes
-,Horace,Odes
-,Horace,Satires
+urn:cts:latinLit:phi0893.phi006:,Horace,Ars Poetica
+urn:cts:latinLit:phi0893.phi002:,Horace,Carmen Saeculare
+urn:cts:latinLit:phi0893.phi005:,Horace,Epistles
+urn:cts:latinLit:phi0893.phi003:,Horace,Epodes
+urn:cts:latinLit:phi0893.phi001:,Horace,Odes
+urn:cts:latinLit:phi0893.phi004:,Horace,Satires
 ,Hyperides,Speeches (Greek). Machine readable text
 ,Isaeus,Speeches (Greek). Machine readable text
 ,Jerome,Epistulae. Selections.
 ,Jerome,Vulgate
-,Julius Caesar,De Bello Gallico
-,Juvenal,Satires
-,Livy,Ab urbe condita
-,Lucan,Pharsalia
+urn:cts:omar:phi0448.phi001:,Julius Caesar,De Bello Gallico
+urn:cts:latinLit:phi1276.phi001:,Juvenal,Satires
+urn:cts:omar:phi0914.phi001:,Livy,Ab urbe condita
+urn:cts:latinLit:phi0917.phi001:,Lucan,Pharsalia
 ,Lucian,Abdicatus
 ,Lucian,Adversus indoctum et libros multos ementem
 ,Lucian,Alexander
@@ -358,19 +358,19 @@ URN,Author,Work
 ,Lycurgus,Speeches (Greek). Machine readable text
 ,Marcus Aurelius,M. Antonius Imperator Ad Se Ipsum
 ,Martial,Epigrams
-,Nepos,Vitae
+urn:cts:latinLit:phi0588.phi001:,Nepos,Vitae
 ,Nonnus of Panopolis,Dionysiaca
 ,Oppian of Apamea,Cynegetica
 ,Oppian,Halieutica
-,Ovid,Amores
-,Ovid,Ars Amatoria
-,Ovid,Ex Ponto
-,Ovid,Fasti
+urn:cts:latinLit:phi0959.phi001:,Ovid,Amores
+urn:cts:latinLit:phi0959.phi004:,Ovid,Ars Amatoria
+urn:cts:latinLit:phi0959.phi009:,Ovid,Ex Ponto
+urn:cts:latinLit:phi0959.phi007:,Ovid,Fasti
 ,Ovid,Heroides
-,Ovid,Medicamina Faciei Femineae
-,Ovid,Metamorphoses
-,Ovid,Remedia Amoris
-,Ovid,Tristia
+urn:cts:latinLit:phi0959.phi003:,Ovid,Medicamina Faciei Femineae
+urn:cts:latinLit:phi0959.phi006:,Ovid,Metamorphoses
+urn:cts:latinLit:phi0959.phi005:,Ovid,Remedia Amoris
+urn:cts:latinLit:phi0959.phi008:,Ovid,Tristia
 ,Pausanias,Description of Greece (Greek). Machine readable text
 ,Persius,Satires
 ,Philostratus the Athenian,De Gymnastica
@@ -420,27 +420,27 @@ URN,Author,Work
 ,Plato,Theaetetus
 ,Plato,Theages
 ,Plato,Timaeus
-,Plautus,Amphitruo
-,Plautus,Asinaria
-,Plautus,Aulularia
-,Plautus,Bacchides
-,Plautus,Captivi
-,Plautus,Casina
-,Plautus,Cistellaria
-,Plautus,Curculio
-,Plautus,Epidicus
-,Plautus,Menaechmi
-,Plautus,Mercator
-,Plautus,Miles Gloriosus
-,Plautus,Mostellaria
-,Plautus,Persa
-,Plautus,Poenulus
-,Plautus,Rudens
-,Plautus,Stichus
-,Plautus,Trinummus
-,Plautus,Truculentus
-,Pliny the Younger,Letters
-,Pliny the Elder,Naturalis Historia
+urn:cts:latinLit:phi0119.phi001:,Plautus,Amphitruo
+urn:cts:latinLit:phi0119.phi002:,Plautus,Asinaria
+urn:cts:latinLit:phi0119.phi003:,Plautus,Aulularia
+urn:cts:latinLit:phi0119.phi004:,Plautus,Bacchides
+urn:cts:latinLit:phi0119.phi005:,Plautus,Captivi
+urn:cts:latinLit:phi0119.phi006:,Plautus,Casina
+urn:cts:latinLit:phi0119.phi007:,Plautus,Cistellaria
+urn:cts:latinLit:phi0119.phi008:,Plautus,Curculio
+urn:cts:latinLit:phi0119.phi009:,Plautus,Epidicus
+urn:cts:latinLit:phi0119.phi010:,Plautus,Menaechmi
+urn:cts:latinLit:phi0119.phi011:,Plautus,Mercator
+urn:cts:latinLit:phi0119.phi012:,Plautus,Miles Gloriosus
+urn:cts:latinLit:phi0119.phi013:,Plautus,Mostellaria
+urn:cts:latinLit:phi0119.phi014:,Plautus,Persa
+urn:cts:latinLit:phi0119.phi015:,Plautus,Poenulus
+urn:cts:latinLit:phi0119.phi017:,Plautus,Rudens
+urn:cts:latinLit:phi0119.phi018:,Plautus,Stichus
+urn:cts:latinLit:phi0119.phi019:,Plautus,Trinummus
+urn:cts:latinLit:phi0119.phi020:,Plautus,Truculentus
+urn:cts:latinLit:phi1318.phi001:,Pliny the Younger,Letters
+urn:cts:latinLit:phi0978.phi001:,Pliny the Elder,Naturalis Historia
 ,Plutarch,Ad principem ineruditum
 ,Plutarch,Adversus Colotem
 ,Plutarch,Aemilius
@@ -470,7 +470,7 @@ URN,Author,Work
 ,Plutarch,Cato the Younger
 ,Plutarch,Comparison of Dion and Brutus
 ,Plutarch,Cimon
-,Plutarch,Cleomenes
+,Plutarch,Cleomenesf
 ,Plutarch,Comparationis Aristophanis et Menandri compendium
 ,Plutarch,Comparison of Agesilaus and Pompey
 ,Plutarch,Comparison of Agis and Cleomenes and the Gracchi
@@ -530,43 +530,43 @@ URN,Author,Work
 ,Plutarch,De superstitione
 ,Plutarch,De tranquilitate animi
 ,Polybius,Histories
-,Propertius,Elegies
+urn:cts:latinLit:phi0620.phi001:,Propertius,Elegies
 ,Pseudo-Plutarch,De Musica
 ,Pseudo-Plutarch,Placita Philosophorum
 ,Pseudo-Quintilian,Major Declamations
 ,Q. Cicero,Essay on Running for Consul
-,Quintilian,Institutio Oratoria
-,Sallust,	Catilina
-,Sallust,Iugurtha
-,Scriptores Historiae Augustae,Historia Augusta
-,Seneca,Ad Lucilium Epistulae Morales
-,Seneca,Agamemnon
-,Seneca,Apocolocyntosis
-,Seneca the Elder,Controversiae
-,Seneca,De Beneficiis
-,Seneca,De Brevitate Vitae
-,Seneca,De Clementia
-,Seneca,De Consolatione ad Helvium
-,Seneca,De Consolatione ad Marciam
-,Seneca,De Consolatione ad Polybium
-,Seneca,De Constantia
-,Seneca,De Ira
-,Seneca,De Otio
-,Seneca,De Providentia
-,Seneca,De Tranquillitate Animi
-,Seneca,De Vita Beata
-,Seneca the Elder,Excerpta Controversiae
-,Seneca the Elder,Fragmenta
-,Seneca,Hercules Furens
-,Seneca,Hercules Oetaeus
-,Seneca,Medea
-,Seneca,Octavia
-,Seneca,Oedipus
-,Seneca,Phaedra
-,Seneca,Phoenissae
-,Seneca the Elder,Suasoriae
-,Seneca,Thyestes
-,Seneca,Troades
+urn:cts:latinLit:phi1002.phi001:,Quintilian,Institutio Oratoria
+urn:cts:omar:phi0631.phi001:,Sallust,Catilina
+urn:cts:omar:phi0631.phi002:,Sallust,Iugurtha
+urn:cts:latinLit:phi2331.phi001:,Scriptores Historiae Augustae,Historia Augusta
+urn:cts:latinLit:phi1017.phi015:,Seneca,Ad Lucilium Epistulae Morales
+urn:cts:latinLit:phi1017.phi007:,Seneca,Agamemnon
+urn:cts:latinLit:phi1017.phi011:,Seneca,Apocolocyntosis
+urn:cts:latinLit:phi1014.phi001:,Seneca the Elder,Controversiae
+urn:cts:latinLit:phi1017.phi013:,Seneca,De Beneficiis
+urn:cts:latinLit:stoa0255.stoa004:,Seneca,De Brevitate Vitae
+urn:cts:latinLit:phi1017.phi014:,Seneca,De Clementia
+urn:cts:latinLit:stoa0255.stoa006:,Seneca,De Consolatione ad Helvium
+urn:cts:latinLit:stoa0255.stoa007:,Seneca,De Consolatione ad Marciam
+urn:cts:latinLit:stoa0255.stoa008:,Seneca,De Consolatione ad Polybium
+urn:cts:latinLit:stoa0255.stoa009:,Seneca,De Constantia
+urn:cts:latinLit:stoa0255.stoa010:,Seneca,De Ira
+urn:cts:latinLit:stoa0255.stoa011:,Seneca,De Otio
+urn:cts:latinLit:stoa0255.stoa012:,Seneca,De Providentia
+urn:cts:latinLit:stoa0255.stoa013:,Seneca,De Tranquillitate Animi
+urn:cts:latinLit:stoa0255.stoa014:,Seneca,De Vita Beata
+urn:cts:latinLit:phi1014.phi002:,Seneca the Elder,Excerpta Controversiae
+urn:cts:latinLit:phi1014.phi004:,Seneca the Elder,Fragmenta
+urn:cts:latinLit:phi1017.phi001:,Seneca,Hercules Furens
+urn:cts:latinLit:phi1017.phi009:,Seneca,Hercules Oetaeus
+urn:cts:latinLit:phi1017.phi004:,Seneca,Medea
+urn:cts:latinLit:phi1017.phi010:,Seneca,Octavia
+urn:cts:latinLit:phi1017.phi006:,Seneca,Oedipus
+urn:cts:latinLit:phi1017.phi005:,Seneca,Phaedra
+urn:cts:latinLit:phi1017.phi003:,Seneca,Phoenissae
+urn:cts:latinLit:phi1014.phi003:,Seneca the Elder,Suasoriae
+urn:cts:latinLit:phi1017.phi008:,Seneca,Thyestes
+urn:cts:latinLit:phi1017.phi002:,Seneca,Troades
 ,Servius Honoratus,Commentary on the Aeneid of Vergil
 ,Servius Honoratus,Commentary on the Eclogues of Vergil
 ,Servius Honoratus,Commentary on the Georgics of Vergil
@@ -587,25 +587,25 @@ URN,Author,Work
 ,Statius,Silvae
 ,Statius,Thebaid
 ,Strabo,Geography (Greek). Machine readable text
-,Suetonius,De Vita Caesarum
-,Tacitus,Dialogus de Oratoribus
-urn:cts:latinLit:phi1351.phi004:,Tacitus,Historiae
-,Tacitus,de Origine et Situ Germanorum Liber
-,Terence,Adelphi
-,Terence,Andria
-,Terence,Eunuchus
-,Terence,Heautontimorumenos
-,Terence,Hecyra
-,Terence,Phormio
+urn:cts:latinLit:phi1348.phi001:,Suetonius,De Vita Caesarum
+urn:cts:omar:phi1351.phi003:,Tacitus,Dialogus de Oratoribus
+urn:cts:omar:phi1351.phi004:,Tacitus,Historiae
+urn:cts:omar:phi1351.phi002:,Tacitus,de Origine et Situ Germanorum Liber
+urn:cts:latinLit:phi0134.phi006:,Terence,Adelphi
+urn:cts:latinLit:phi0134.phi001:,Terence,Andria
+urn:cts:latinLit:phi0134.phi003:,Terence,Eunuchus
+urn:cts:latinLit:phi0134.phi002:,Terence,Heautontimorumenos
+urn:cts:latinLit:phi0134.phi005:,Terence,Hecyra
+urn:cts:latinLit:phi0134.phi004:,Terence,Phormio
 ,Tertullian,Apologeticum
 ,Tertullian,De Spectaculis
 ,Theophrastus,Characters
 ,Thucydides,The Peleponnesian War
 ,Tibullus,Carmina
 ,Tryphiodorus,The Taking of Ilios
-,Valerius Maximus,Facta et Dicta Memorabilia
-,Vergil,Aeneid
-,Vergil,Eclogues
-,Vergil,Georgics
-,Vitruvius Pollio,De Architectura
+urn:cts:latinLit:phi1038.phi001:,Valerius Maximus,Facta et Dicta Memorabilia
+urn:cts:latinLit:phi0690.phi003:,Vergil,Aeneid
+urn:cts:latinLit:phi0690.phi001:,Vergil,Eclogues
+urn:cts:latinLit:phi0690.phi002:,Vergil,Georgics
+urn:cts:latinLit:phi1056.phi001:,Vitruvius Pollio,De Architectura
 ,Xenophon,Anabasis
