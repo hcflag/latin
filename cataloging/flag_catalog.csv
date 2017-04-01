@@ -1,6 +1,5 @@
 urn,citationScheme,groupName,workTitle,versionLabel,exemplarLabel,online
 urn:cts:latinLit:phi1038.phi001.omar:,book/chapter/section,Valerius Maximus,Factorum Et Dictorum Memorabilium,Tesserae edition,,true
-urn:cts:latinLit:phi0474.phi052.omar:,letter/section,M. Tullius Cicero,Epistulae Ad Atticum,Tessearae edition,,true
 urn:cts:latinLit:phi1351.phi001:,chapter/section,Tacitus,Agricola,Tesserae edition,,true
 urn:cts:omar:phi1351.phi002:,chapter/section,Tacitus,Germania,Tesserae edition,,true
 urn:cts:omar:phi1351.phi003:,chapter/section,Tacitus,Dialogus de Oratoribus,Tesserae edition,,true
@@ -15,4 +14,11 @@ urn:cts:latinLit:phi1221.phi007;,section,Caesar Augustus,Res Gestae,Tesserae edi
 urn:cts:latinLit:stoa0023.stoa001:,book/chapter/section,Ammianus Marcellinus,Res Gestae,Tesserae edition,,true
 urn:cts:latinLit:phi1348.phi001:,life/chapter/section,Suetonius,De Vita Caesarum,Tesserae edition,,true
 urn:cts:latinLit:phi0588.phi001:,life/chapter/section,Nepos,Vitae,Tesserae edition,,true
+urn:cts:latinLit:phi0474.phi057.omar:,letter/section,M. Tullius Cicero,Epistulae Ad Atticum,Tessearae edition,,true
+urn:cts:latinLit:phi0474.phi052:,,M. Tullius Cicero,De Amicitia,Tessearae edition,,true
+urn:cts:latinLit:phi0474.phi018:,,M. Tullius Cicero,Cum populo gratias egit,Tessearae edition,,true
+urn:cts:latinLit:phi0474.phi054:,,M. Tullius Cicero,De fato,Tessearae edition,,true
+urn:cts:latinLit:phi0474.phi048:,chapter/section,M. Tullius Cicero,De Finibus Bonorum et Malorum,Tessearae edition,,true
+urn:cts:latinLit:phi0474.phi036:,chapter/section,M. Tullius Cicero,De Inventione,Tessearae edition,,true
+urn:cts:latinLit:phi0474.phi053:,chapter/section,M. Tullius Cicero,De Divinatione,Tessearae edition,,true
 
