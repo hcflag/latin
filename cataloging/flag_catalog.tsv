@@ -14,12 +14,12 @@ urn:cts:latinLit:stoa0023.stoa001.omar:	book/chapter/section	Ammianus Marcellinu
 urn:cts:latinLit:phi1348.phi001.omar:	life/chapter/section	Suetonius	De Vita Caesarum	Tesserae edition		true
 urn:cts:latinLit:phi0588.phi001.omar:	life/chapter/section	Nepos	Vitae	Tesserae edition		true
 urn:cts:latinLit:phi0474.phi057.omar:	letter/section	M. Tullius Cicero	Epistulae Ad Atticum	Tessearae edition		true
-urn:cts:latinLit:phi0474.phi052.omar:		M. Tullius Cicero	De Amicitia	Tessearae edition		true
-urn:cts:latinLit:phi0474.phi018.omar:		M. Tullius Cicero	Cum populo gratias egit	Tessearae edition		true
-urn:cts:latinLit:phi0474.phi054.omar:		M. Tullius Cicero	De fato	Tessearae edition		true
+urn:cts:latinLit:phi0474.phi052.omar:	section	M. Tullius Cicero	De Amicitia	Tessearae edition		true
+urn:cts:latinLit:phi0474.phi018.omar:	section	M. Tullius Cicero	Cum populo gratias egit	Tessearae edition		true
+urn:cts:latinLit:phi0474.phi054.omar:	section	M. Tullius Cicero	De fato	Tessearae edition		true
 urn:cts:latinLit:phi0474.phi048.omar:	chapter/section	M. Tullius Cicero	De Finibus Bonorum et Malorum	Tessearae edition		true
 urn:cts:latinLit:phi0474.phi036.omar:	chapter/section	M. Tullius Cicero	De Inventione	Tessearae edition		true
 urn:cts:latinLit:phi0474.phi053.omar:	chapter/section	M. Tullius Cicero	De Divinatione	Tessearae edition		true
 urn:cts:latinLit:phi0474.phi055.omar:	chapter/section	M. Tullius Cicero	De Officiis	Tessearae edition		true
 urn:cts:latinLit:phi0474.phi037.omar:	chapter/section	M. Tullius Cicero	De Oratore	Tessearae edition		true
-urn:cts:latinLit:phi0474.phi020.omar:		M. Tullius Cicero	De domo sua	Tessearae edition		true
+urn:cts:latinLit:phi0474.phi020.omar:	section	M. Tullius Cicero	De domo sua	Tessearae edition		true
