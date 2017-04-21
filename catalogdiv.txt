@@ -1,1 +1,16 @@
+#!cexversion
+
+# note: starting out with version 1.0
+1.0
+
+#!citelibrary
+
+# Metadata applying to the entire library.
+# Note that throughout this source, the tab character "\t" is used as
+# the column delimiter.
+
+name#Latin texts from the Holy Cross Free Latin and Greek project (FLAG)
+urn#urn:cite2:hmt:flag.2017a:latin
+license#Creative Commons Attribution, Non-Commercial 4.0 License <https://creativecommons.org/licenses/by-nc/4.0/>.
+
 #!ctscatalog
