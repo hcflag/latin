@@ -11,4 +11,4 @@
 #    ./scripts/cex.sh > flag.cex
 #
 
-cat cextemplates/catalogdiv.txt editions/flag_catalog.tsv cextemplates/catalogdata.txt  editions/cataloged/*tsv | sed -e $'s/\t/#/g'
+cat cextemplates/catalogdiv.txt editions/flag_catalog.tsv cextemplates/datadiv.txt  editions/cataloged/*tsv | sed -e $'s/\t/#/g'
